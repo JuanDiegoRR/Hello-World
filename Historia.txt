@@ -6,3 +6,5 @@ Me gustan las fiestas y la tranquilidad
 Bipolaridad? No, me gusta mezclar
 
 Olvidé mencionar que hoy es jueves? alto día de damier
+
+También estoy aprendiendo Git y GitHub
