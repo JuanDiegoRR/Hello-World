@@ -7,6 +7,25 @@ body {
     padding: 0;
 }
 
+#Cabecera 
+{
+    background: darkturquoise;
+    box-shadow: 0px 2px 20px 0px rgba(46, 46, 46, 0);
+    color: floralwhite;
+    font-weight: bold;
+    margin: 0;
+    padding: 1em;
+}
+
+#Cabecera #tagline 
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 20px;
+
+}
+
+
 #container
 {
     width: 70%;
